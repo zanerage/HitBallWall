@@ -6,7 +6,7 @@ public class GameplayController : MonoBehaviour
 {
 
     Rigidbody2D myrigidbody;
-    public float speed = 5;
+    public float speed = 7;
 
 
     private void Awake() {
